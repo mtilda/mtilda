@@ -4,9 +4,7 @@
 
 I am a programmer and a fullstack software engineer.
 
-### ⚽ Activities
-
-*I like to...*
+### ⚽ Activities I enjoy
 
 ||||
 |:-:|:-|:-|
@@ -20,7 +18,7 @@ I am a programmer and a fullstack software engineer.
 |👩🏻‍🏫| **Teach**     | others how to program            |
 |👩🏻‍💻| **Write**     | code & documentation             |
 
-### 💽 Programming languages
+### 💽 Programming languages I use
 
 - [C](https://en.cppreference.com/w/c/language/)/[C++](https://en.cppreference.com/w/cpp/language/)
 - [Dockerfile](https://docs.docker.com/engine/reference/builder/)
@@ -31,7 +29,7 @@ I am a programmer and a fullstack software engineer.
 - [Ruby](https://ruby-doc.org/)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 
-### 📚 Packages
+### 📚 Packages I use
 
 | Language | Packages |
 |:-|:-|
@@ -39,7 +37,7 @@ I am a programmer and a fullstack software engineer.
 | Python | </ul><li>[black](https://black.readthedocs.io/)</li><li>[Django](https://docs.djangoproject.com/)/[DRF](https://www.django-rest-framework.org/)</li><li>[flake8](https://flake8.pycqa.org/)</li><li>[isort](https://pycqa.github.io/isort/)</li><li>[Mixer](https://mixer.readthedocs.io/)</li><li>[pydantic](https://pydantic-docs.helpmanual.io/)</li> |
 | Ruby   | <ul><li>[Rails](https://guides.rubyonrails.org/)</li><li>[RSpec](https://rspec.info/documentation)</li></ul> |
 
-### 🧰 Technologies (Infrastructure/DevOps)
+### 🧰 Technologies I use
 
 - [Docker](https://docs.docker.com/)
 - [GitHub](https://docs.github.com/)
@@ -48,14 +46,14 @@ I am a programmer and a fullstack software engineer.
 - [LogRocket](https://docs.logrocket.com/docs/)
 - [Sentry](https://docs.sentry.io/)
 
-### 💬 Human languages
+### 💬 Human languages I use
 
-|Langauge|[ILR](https://www.govtilr.org/) score*|
-|--------|--|
-|English |5 |
-|Spanish |2 |
+| Langauge| Proficiency* |
+|-|-|
+| English (US) | Fluent |
+| Spanish      | Limited Working Proficiency |
 
-**self-assessment*
+**self-assessed*
 
 ## 🔮 Contact
 
