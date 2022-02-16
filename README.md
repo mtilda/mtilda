@@ -33,25 +33,11 @@ I am a programmer and a fullstack software engineer.
 
 ### 📚 Packages
 
-#### JavaScript/TypeScript
-- [Jest](https://jestjs.io/docs/getting-started/)
-- [Material UI](https://mui.com/)
-- [Next](https://nextjs.org/docs/getting-started/)
-- [React](https://reactjs.org/docs/getting-started.html)
-- [Recoil](https://recoiljs.org/)
-
-#### Python
-- [black](https://black.readthedocs.io/)
-- [Django REST Framework](https://www.django-rest-framework.org/)
-- [Django](https://docs.djangoproject.com/)
-- [flake8](https://flake8.pycqa.org/)
-- [isort](https://pycqa.github.io/isort/)
-- [Mixer](https://mixer.readthedocs.io/)
-- [pydantic](https://pydantic-docs.helpmanual.io/)
-
-#### Ruby
-- [Rails](https://guides.rubyonrails.org/)
-- [RSpec](https://rspec.info/documentation)
+| Language | Packages |
+|:-|:-|
+| JavaScript/<br />TypeScript  | <ul><li>[eslint](https://eslint.org/docs/user-guide/getting-started)</li><li>[Jest](https://jestjs.io/docs/getting-started/)</li><li>[Material UI](https://mui.com/)</li><li>[Next](https://nextjs.org/docs/getting-started/)</li><li>[React](https://reactjs.org/docs/getting-started.html)</li><li>[Recoil](https://recoiljs.org/)</ul> |
+| Python | </ul><li>[black](https://black.readthedocs.io/)</li><li>[Django](https://docs.djangoproject.com/)/[DRF](https://www.django-rest-framework.org/)</li><li>[flake8](https://flake8.pycqa.org/)</li><li>[isort](https://pycqa.github.io/isort/)</li><li>[Mixer](https://mixer.readthedocs.io/)</li><li>[pydantic](https://pydantic-docs.helpmanual.io/)</li> |
+| Ruby   | <ul><li>[Rails](https://guides.rubyonrails.org/)</li><li>[RSpec](https://rspec.info/documentation)</li></ul> |
 
 ### 🧰 Technologies (Infrastructure/DevOps)
 
@@ -64,7 +50,7 @@ I am a programmer and a fullstack software engineer.
 
 ### 💬 Human languages
 
-|Langauge|[ILR](https://www.govtilr.org/)*|
+|Langauge|[ILR](https://www.govtilr.org/) score*|
 |--------|--|
 |English |5 |
 |Spanish |2 |
