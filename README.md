@@ -29,14 +29,6 @@ I am a programmer and a fullstack software engineer.
 - [Ruby](https://ruby-doc.org/)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 
-### 📚 Packages I like
-
-| Language | Packages |
-|:-|:-|
-| JavaScript/<br />TypeScript  | <ul><li>[ESLint](https://eslint.org/docs/user-guide/getting-started)</li><li>[Jest](https://jestjs.io/docs/getting-started/)</li><li>[Material UI](https://mui.com/)</li><li>[Next](https://nextjs.org/docs/getting-started/)</li><li>[React](https://reactjs.org/docs/getting-started.html)</li><li>[Recoil](https://recoiljs.org/)</ul> |
-| Python | </ul><li>[black](https://black.readthedocs.io/)</li><li>[Django](https://docs.djangoproject.com/)/[DRF](https://www.django-rest-framework.org/)</li><li>[flake8](https://flake8.pycqa.org/)</li><li>[isort](https://pycqa.github.io/isort/)</li><li>[Mixer](https://mixer.readthedocs.io/)</li><li>[pydantic](https://pydantic-docs.helpmanual.io/)</li> |
-| Ruby   | <ul><li>[Rails](https://guides.rubyonrails.org/)</li><li>[RSpec](https://rspec.info/documentation)</li></ul> |
-
 ### 🧰 Technologies I like
 
 - [Docker](https://docs.docker.com/)
