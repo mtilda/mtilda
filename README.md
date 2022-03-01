@@ -18,7 +18,7 @@ I am a programmer and a fullstack software engineer.
 |👩🏻‍🏫| **Teach**     | others how to program            |
 |👩🏻‍💻| **Write**     | code & documentation             |
 
-### 💽 Programming languages I like
+### 💽 Programming languages (and packages) I use
 
 - [C](https://en.cppreference.com/w/c/language/)/[C++](https://en.cppreference.com/w/cpp/language/)
 - [Dockerfile](https://docs.docker.com/engine/reference/builder/)
@@ -40,7 +40,7 @@ I am a programmer and a fullstack software engineer.
   - [Rails](https://guides.rubyonrails.org/)
   - [RSpec](https://rspec.info/documentation)
 
-### 🧰 Technologies I like
+### 🧰 Technologies I use
 
 - [Docker](https://docs.docker.com/)
 - [GitHub](https://docs.github.com/)
