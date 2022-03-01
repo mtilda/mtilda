@@ -20,6 +20,7 @@ I am a programmer and a fullstack software engineer.
 
 ### 💽 Programming languages (and packages) I use
 
+- [Bash](https://www.gnu.org/software/bash/manual/bash.html)
 - [C](https://en.cppreference.com/w/c/language/)/[C++](https://en.cppreference.com/w/cpp/language/)
 - [Dockerfile](https://docs.docker.com/engine/reference/builder/)
 - [Go](https://go.dev/doc/)
