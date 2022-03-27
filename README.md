@@ -4,20 +4,6 @@
 
 I am a programmer and a fullstack software engineer.
 
-### ⚽ Activities I enjoy
-
-||||
-|:-:|:-|:-|
-|👷🏻‍♀️| **Architect** | databases & services             |
-|👩🏻‍🎨| **Create**    | effective user interfaces        |
-|👩🏻‍🔧| **Improve**   | web accessibility                |
-|👩🏻‍🎓| **Learn**     | about all things STEM            |
-|🧙🏻‍♀️| **Play**      | table-top games                  |
-|👩🏻‍🔬| **Solve**     | problems with data               |
-|🌱| **Support**   | social justice initiatives       |
-|👩🏻‍🏫| **Teach**     | others how to program            |
-|👩🏻‍💻| **Write**     | code & documentation             |
-
 ### 💽 Programming languages (and packages) I use
 
 - [Bash](https://www.gnu.org/software/bash/manual/bash.html)
