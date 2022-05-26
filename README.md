@@ -4,7 +4,7 @@
 
 I am a programmer and a fullstack software engineer.
 
-### 💽 Programming languages (and packages) I use
+### 💽 Programming languages (and packages/frameworks) I use
 
 - [Bash](https://www.gnu.org/software/bash/manual/bash.html)
 - [C](https://en.cppreference.com/w/c/language/)/[C++](https://en.cppreference.com/w/cpp/language/)
@@ -19,6 +19,7 @@ I am a programmer and a fullstack software engineer.
     - [Recoil](https://recoiljs.org/)
 - [PostgreSQL](https://www.postgresql.org/docs/)
 - [Python](https://docs.python.org/)
+  - [Airflow](https://airflow.apache.org/docs/)
   - [black](https://black.readthedocs.io/)
   - [Django](https://docs.djangoproject.com/)/[DRF](https://www.django-rest-framework.org/)
   - [flake8](https://flake8.pycqa.org/)
@@ -35,6 +36,7 @@ I am a programmer and a fullstack software engineer.
 - [Jira](https://confluence.atlassian.com/jira/)
 - [LogRocket](https://docs.logrocket.com/docs/)
 - [Sentry](https://docs.sentry.io/)
+- [Superset](https://superset.apache.org/docs/intro/) ([Preset](https://docs.preset.io/docs/))
 
 ## 🔮 Contact
 
