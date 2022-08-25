@@ -37,7 +37,7 @@ I am a computer programmer. Ask me about any of the following!
 +-------------+-------------------+-------------+--------------------+
 | MySQL_      | Markdown_         |             | YAML_              |
 +-------------+-------------------+-------------+--------------------+
-| SQLite_     | reStructuredText_ |             |                    |
+|             | reStructuredText_ |             |                    |
 +-------------+-------------------+-------------+--------------------+
 
 🧰 Technologies
@@ -102,7 +102,6 @@ I am a computer programmer. Ask me about any of the following!
 .. _Ruby: https://ruby-doc.org/
 .. _Sentry: https://docs.sentry.io/
 .. _`Styled Components`: https://styled-components.com/
-.. _SQLite: https://www.sqlite.org/docs.html
 .. _Superset: https://superset.apache.org/docs/intro/
 .. _Terraform: https://www.terraform.io/docs
 .. _TypeScript: https://www.typescriptlang.org/docs/
