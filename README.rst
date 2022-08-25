@@ -2,7 +2,7 @@
 Hi, I'm Mathilda 👾
 ====
 
-I am a computer programmer. Ask me about any of the following!
+I am a computer programmer, waiting for GItHub to support RST. Ask me about any of the following!
 
 ----
 
@@ -32,7 +32,7 @@ I am a computer programmer. Ask me about any of the following!
 
 +-------------+-------------------+-------------+--------------------+
 | SQL         | Markup            | Styling     | Data Serialization |
-+=============+===================+=============+====================|
++=============+===================+=============+====================+
 | PostgreSQL_ | HTML_             | CSS_        | JSON_              |
 +-------------+-------------------+-------------+--------------------+
 | MySQL_      | Markdown_         |             | YAML_              |
