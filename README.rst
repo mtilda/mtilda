@@ -22,7 +22,7 @@ I am a computer programmer. Ask me about any of the following!
 +-------------+-------------+-------------+-------------+-------------+--------------+-------------+
 | pydantic_   | Next_                     |             |             |              |             |
 +-------------+-------------+-------------+-------------+-------------+--------------+-------------+
-|             | Recoil_                   |             |             |              |             |
+| pytest_     | Recoil_                   |             |             |              |             |
 +-------------+-------------+-------------+-------------+-------------+--------------+-------------+
 |             | `Styled Components`_      |             |             |              |             |
 +-------------+-------------+-------------+-------------+-------------+--------------+-------------+
@@ -91,6 +91,7 @@ I am a computer programmer. Ask me about any of the following!
 .. _PostgreSQL: https://www.postgresql.org/docs/
 .. _Preset: https://docs.preset.io/docs/
 .. _pydantic: https://pydantic-docs.helpmanual.io/
+.. _pytest: https://docs.pytest.org/en/7.1.x/contents.html
 .. _Python: https://docs.python.org/
 .. _Rails: https://guides.rubyonrails.org/
 .. _React: https://reactjs.org/docs/getting-started.html
