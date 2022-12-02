@@ -46,9 +46,9 @@ I am a computer programmer. Ask me about any of the following!
 +--------------------------+-------------+---------------------+---------------------+
 | Infrastructure           | DevOps      | Product Monitoring  | Data Analytics      |
 +==========================+=============+=====================+=====================+
-| Docker_                  | GitHub_     | Sentry_             | Superset_ (Preset_) |
+| Docker_                  | GitHub_     | Sentry_             | dbt_                |
 +--------------------------+-------------+---------------------+---------------------+
-| Terraform_               | Jira_       | LogRocket_          |                     |
+| Terraform_               | Jira_       | LogRocket_          | Superset_ (Preset_) |
 +--------------------------+-------------+---------------------+---------------------+
 | `Google Cloud Platform`_ |             |                     |                     |
 +--------------------------+-------------+---------------------+---------------------+
@@ -66,6 +66,7 @@ I am a computer programmer. Ask me about any of the following!
 .. _C: https://en.cppreference.com/w/c/language/
 .. _`C++`: https://en.cppreference.com/w/cpp/language
 .. _CSS: https://developer.mozilla.org/docs/Web/CSS
+.. _dbt: https://docs.getdbt.com/docs/introduction
 .. _Django: https://docs.djangoproject.com/
 .. _Docker: https://docs.docker.com/
 .. _docker-compose: https://docs.docker.com/compose/
