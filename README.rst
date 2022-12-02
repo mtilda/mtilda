@@ -2,7 +2,7 @@
 Hi, I'm Tilda 👾
 ====
 
-I am a computer programmer. Ask me about any of the following!
+I am a computer programmer. Let's dive into any of the following concepts, or maybe something new.
 
 ----
 
