@@ -30,15 +30,15 @@ I am a computer programmer. Let's dive into any of the following concepts, or ma
 📐 Declarative languages
 ----
 
-+-------------+-------------------+-------------+--------------------+
-| SQL         | Markup            | Styling     | Data Serialization |
-+=============+===================+=============+====================+
-| PostgreSQL_ | HTML_             | CSS_        | JSON_              |
-+-------------+-------------------+-------------+--------------------+
-| MySQL_      | Markdown_         |             | YAML_              |
-+-------------+-------------------+-------------+--------------------+
-|             | reStructuredText_ |             |                    |
-+-------------+-------------------+-------------+--------------------+
++-------------+-------------------+-------------+--------------------+------------+
+| SQL         | Markup            | Styling     | Data Serialization | Templating |
++=============+===================+=============+====================+============+
+| PostgreSQL_ | HTML_             | CSS_        | JSON_              | Jinja_     |
++-------------+-------------------+-------------+--------------------+------------+
+| MySQL_      | Markdown_         |             | YAML_              |            |
++-------------+-------------------+-------------+--------------------+------------+
+|             | reStructuredText_ |             |                    |            |
++-------------+-------------------+-------------+--------------------+------------+
 
 🧰 Technologies
 ----
@@ -82,6 +82,7 @@ I am a computer programmer. Let's dive into any of the following concepts, or ma
 .. _JavaScript: https://developer.mozilla.org/docs/Web/JavaScript/
 .. _Jest: https://jestjs.io/docs/getting-started/
 .. _Jira: https://confluence.atlassian.com/jira/
+.. _Jinja: https://jinja.palletsprojects.com/
 .. _LinkedIn: https://www.linkedin.com/in/mtilda/
 .. _LogRocket: https://docs.logrocket.com/docs/
 .. _JSON: https://www.json.org/json-en.html
