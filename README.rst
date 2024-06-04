@@ -8,6 +8,8 @@ I am a computer programmer. Let's dive into any of the following concepts, or ma
 
 .. image:: https://github-readme-stats.vercel.app/api?username=mtilda
 
+.. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=mtilda&langs_count=16
+
 ----
 
 💽 Programming languages / packages
