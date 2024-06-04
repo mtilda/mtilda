@@ -1,19 +1,14 @@
-====
-Hi, I'm Tilda 👾
-====
-
-I am a computer programmer. Let's dive into any of the following concepts, or maybe something new.
-
-----
-
 .. image:: https://github-readme-stats.vercel.app/api?username=mtilda
 
-.. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=mtilda&langs_count=16
+================
+Hi, I'm Tilda 👾
+================
 
-----
+I am a computer programmer. Let's dive into any of the following topics, or maybe something new.
 
+-----------------------------------
 💽 Programming languages / packages
-----
+-----------------------------------
 
 +-------------+---------------------------+-------------+-------------+--------------+
 | Python_     | TypeScript_ / JavaScript_ | Ruby_       | Go_         | C_ / `C++`_  |
@@ -33,8 +28,9 @@ I am a computer programmer. Let's dive into any of the following concepts, or ma
 |             | `Styled Components`_      |             |             |              |
 +-------------+---------------------------+-------------+-------------+--------------+
 
+------------------------
 📐 Declarative languages
-----
+------------------------
 
 +-------------+-------------------+-------------+--------------------+------------+
 | SQL         | Markup            | Styling     | Data Serialization | Templating |
@@ -46,8 +42,9 @@ I am a computer programmer. Let's dive into any of the following concepts, or ma
 |             | reStructuredText_ |             |                    |            |
 +-------------+-------------------+-------------+--------------------+------------+
 
+---------------
 🧰 Technologies
-----
+---------------
 
 +--------------------------+-------------+---------------------+---------------------+
 | Infrastructure           | DevOps      | Product Monitoring  | Data Analytics      |
@@ -59,8 +56,9 @@ I am a computer programmer. Let's dive into any of the following concepts, or ma
 | `Google Cloud Platform`_ |             |                     |                     |
 +--------------------------+-------------+---------------------+---------------------+
 
+----------
 🔮 Contact
-----
+----------
 
 - Email_
 - LinkedIn_
