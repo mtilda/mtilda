@@ -4,6 +4,10 @@ Hi, I'm Tilda 👾
 
 I am a computer programmer. Let's dive into any of the following concepts, or maybe something new.
 
+---
+
+[![Tilda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtilda)](https://github.com/anuraghazra/github-readme-stats)
+
 ----
 
 💽 Programming languages / packages
