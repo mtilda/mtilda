@@ -7,26 +7,26 @@ Hi, I'm Tilda 👾
 I am a computer programmer. Let's dive into any of the following topics, or maybe something new.
 
 -----------------------------------
-💽 Programming languages / packages
+💽 Programming languages & packages
 -----------------------------------
 
-+-------------+---------------------------+-------------+-------------+--------------+
-| Python_     | TypeScript_ / JavaScript_ | Ruby_       | Go_         | C_ / `C++`_  |
-+=============+===========================+=============+=============+==============+
-| Airflow_    | ESLint_                   | Rails_      |             | Arduino_     |
-+-------------+---------------------------+-------------+-------------+--------------+
-| black_      | Jest_                     | RSpec_      |             | RobotC_      |
-+-------------+---------------------------+-------------+-------------+--------------+
-| Django_     | React_                    |             |             |              |
-+-------------+---------------------------+-------------+-------------+--------------+
-| flake8_     | `Material UI`_            |             |             |              |
-+-------------+---------------------------+-------------+-------------+--------------+
-| pydantic_   | Next_                     |             |             |              |
-+-------------+---------------------------+-------------+-------------+--------------+
-| pytest_     | Recoil_                   |             |             |              |
-+-------------+---------------------------+-------------+-------------+--------------+
-|             | `Styled Components`_      |             |             |              |
-+-------------+---------------------------+-------------+-------------+--------------+
++-------------+---------------------------+-------------+-------------+--------------+--------------+
+| Python_     | TypeScript_ / JavaScript_ | Ruby_       | Go_         | C_ / `C++`_  | Rust_        |
++=============+===========================+=============+=============+==============+==============+
+| Airflow_    | ESLint_                   | Rails_      |             | Arduino_     | serde_       |
++-------------+---------------------------+-------------+-------------+--------------+--------------+
+| black_      | Jest_                     | RSpec_      |             | RobotC_      | rstest_      |
++-------------+---------------------------+-------------+-------------+--------------+--------------+
+| Django_     | React_                    |             |             |              | gtk4-rs_     |
++-------------+---------------------------+-------------+-------------+--------------+--------------+
+| flake8_     | `Material UI`_            |             |             |              |              |
++-------------+---------------------------+-------------+-------------+--------------+--------------+
+| pydantic_   | Next_                     |             |             |              |              |
++-------------+---------------------------+-------------+-------------+--------------+--------------+
+| pytest_     | Recoil_                   |             |             |              |              |
++-------------+---------------------------+-------------+-------------+--------------+--------------+
+|             | `Styled Components`_      |             |             |              |              |
++-------------+---------------------------+-------------+-------------+--------------+--------------+
 
 ------------------------
 📐 Declarative languages
@@ -82,6 +82,7 @@ I am a computer programmer. Let's dive into any of the following topics, or mayb
 .. _GitHub: https://docs.github.com/
 .. _Go: https://go.dev/doc/
 .. _`Google Cloud Platform`: https://cloud.google.com/docs/
+.. _gtk4-rs: https://crates.io/crates/gtk4
 .. _HTML: https://developer.mozilla.org/docs/Web/HTML
 .. _JavaScript: https://developer.mozilla.org/docs/Web/JavaScript/
 .. _Jest: https://jestjs.io/docs/getting-started/
@@ -105,8 +106,11 @@ I am a computer programmer. Let's dive into any of the following topics, or mayb
 .. _reStructuredText: https://docutils.sourceforge.io/rst.html
 .. _RobotC: https://www.robotc.net/
 .. _RSpec: https://rspec.info/documentation
+.. _rstest: https://docs.rs/rstest
 .. _Ruby: https://ruby-doc.org/
+.. _Rust: https://www.rust-lang.org/
 .. _Sentry: https://docs.sentry.io/
+.. _serde: https://crates.io/crates/serde
 .. _`Styled Components`: https://styled-components.com/
 .. _Superset: https://superset.apache.org/docs/intro/
 .. _Terraform: https://www.terraform.io/docs
