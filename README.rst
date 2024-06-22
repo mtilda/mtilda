@@ -1,4 +1,4 @@
-.. image:: https://github-readme-stats.vercel.app/api?username=mtilda
+.. image:: https://github-readme-stats-teal-eight-55.vercel.app/api?username=mtilda&rank_icon=percentile&show_icons=true&theme=vision-friendly-dark
 
 ================
 Hi, I'm Tilda 👾
