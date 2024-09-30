@@ -42,9 +42,9 @@ I am a computer programmer. Let's dive into any of the following topics, or mayb
 |             | reStructuredText_ |             |                    |            |
 +-------------+-------------------+-------------+--------------------+------------+
 
----------------
-🧰 Technologies
----------------
+--------
+🧰 Tools
+--------
 
 +--------------------------+-------------+---------------------+---------------------+
 | Infrastructure           | DevOps      | Product Monitoring  | Data Analytics      |
