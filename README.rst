@@ -25,7 +25,13 @@ I am a computer programmer. Let's dive into any of the following topics, or mayb
 +-------------+---------------------------+-------------+-------------+--------------+--------------+
 | pytest_     | Recoil_                   |             |             |              |              |
 +-------------+---------------------------+-------------+-------------+--------------+--------------+
-|             | `Styled Components`_      |             |             |              |              |
+| Numpy_      | `Styled Components`_      |             |             |              |              |
++-------------+---------------------------+-------------+-------------+--------------+--------------+
+| pandas_     | Sanity_                   |             |             |              |              |
++-------------+---------------------------+-------------+-------------+--------------+--------------+
+| SciPy_      |                           |             |             |              |              |
++-------------+---------------------------+-------------+-------------+--------------+--------------+
+| TensorFlow_ |                           |             |             |              |              |
 +-------------+---------------------------+-------------+-------------+--------------+--------------+
 
 ------------------------
@@ -95,6 +101,8 @@ I am a computer programmer. Let's dive into any of the following topics, or mayb
 .. _`Material UI`: https://mui.com/
 .. _MySQL: https://docs.oracle.com/cd/E17952_01/index.html
 .. _Next: https://nextjs.org/docs/getting-started/
+.. _Numpy: https://numpy.org/
+.. _pandas: https://pandas.pydata.org/
 .. _PostgreSQL: https://www.postgresql.org/docs/
 .. _Preset: https://docs.preset.io/docs/
 .. _pydantic: https://pydantic-docs.helpmanual.io/
@@ -109,10 +117,13 @@ I am a computer programmer. Let's dive into any of the following topics, or mayb
 .. _rstest: https://docs.rs/rstest
 .. _Ruby: https://ruby-doc.org/
 .. _Rust: https://www.rust-lang.org/
+.. _Sanity: https://www.sanity.io/
+.. _SciPy: https://scipy.org/
 .. _Sentry: https://docs.sentry.io/
 .. _serde: https://crates.io/crates/serde
 .. _`Styled Components`: https://styled-components.com/
 .. _Superset: https://superset.apache.org/docs/intro/
+.. _TensorFlow: https://www.tensorflow.org/
 .. _Terraform: https://www.terraform.io/docs
 .. _TypeScript: https://www.typescriptlang.org/docs/
 .. _WPILib: https://first.wpi.edu/wpilib/allwpilib/docs/release/java/index.html
